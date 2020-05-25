@@ -2,7 +2,7 @@
 
 The Desk Organizer App is made to make daily tasks easier.
 
-The app is available at http://wizard.uek.krakow.pl/~s206127/desk-organizer/#/
+The app is available at [Desk Organizer](http://wizard.uek.krakow.pl/~s206127/desk-organizer/#/).
 
 # Tools
 
