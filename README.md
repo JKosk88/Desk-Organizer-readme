@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Desk Organizer
 
-You can use the [editor on GitHub](https://github.com/JKosk88/Desk-Organizer-readme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Desk Organizer App is made to make daily tasks easier.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The app is available at http://wizard.uek.krakow.pl/~s206127/private-desk/#/
 
-### Markdown
+# Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+App was created using JavaScript with Vue.js framework.
+The database used in this project is Firebase.
 
-```markdown
-Syntax highlighted code block
+# Functions
 
-# Header 1
-## Header 2
-### Header 3
+## Weather
 
-- Bulleted
-- List
+Desk-Organizer shows weather forecast. You can choose to see daily forecast and switch it to hourly forecast at any time.
+The app also shows charts so that you can chec temperature even faster and easier.
 
-1. Numbered
-2. List
+## Calendar
 
-**Bold** and _Italic_ and `Code` text
+On the display is constantly calendar being shown. It is made with situations when you need to check calendar and you don't want to seacrch for it anywhere in mind.
 
-[Link](url) and ![Image](src)
-```
+## Exchange rates
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This module is for those, who like to sell or buy some foregin from time to time.
 
-### Jekyll Themes
+## Events from calendar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JKosk88/Desk-Organizer-readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The app will constantly show you your upcomming events so that you don't have to remember about them.
