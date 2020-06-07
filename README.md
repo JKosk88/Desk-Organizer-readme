@@ -30,4 +30,6 @@ The app will constantly show you your upcomming events so that you don't have to
 
 ![alt text](https://ibb.co/xS7znBj "Home panel")
 
+![alt text](https://ibb.co/xS7znBj)
+
 
