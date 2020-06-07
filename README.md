@@ -29,6 +29,8 @@ This module is for those, who like to sell or buy some foregin from time to time
 The app will constantly show you your upcomming events so that you don't have to remember about them.
 
 
-![alt text](https://github.com/JKosk88/Desk-Organizer-readme/blob/master/blob/SharedScreenshot.jpg)
+![alt text](https://github.com/JKosk88/Desk-Organizer-readme/blob/master/blob/SharedScreenshot.jpg?raw=true)
+
+
 
 
