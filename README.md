@@ -27,3 +27,7 @@ This module is for those, who like to sell or buy some foregin from time to time
 ## Events from calendar
 
 The app will constantly show you your upcomming events so that you don't have to remember about them.
+
+![alt text](https://ibb.co/xS7znBj "Home panel")
+
+
