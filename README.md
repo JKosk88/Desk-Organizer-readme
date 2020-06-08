@@ -40,13 +40,14 @@ The app also shows charts so that you can chec temperature even faster and easie
 
 On the display is constantly calendar being shown. It is made with situations when you need to check calendar and you don't want to seacrch for it anywhere in mind.
 
-![](?raw=true)
+![Calendar](https://github.com/JKosk88/Desk-Organizer-readme/blob/master/blob/calendar.jpg?raw=true)
+
 
 ### Events from calendar
 
 The app will constantly show you your upcomming events so that you don't have to remember about them.
 
-![Calendar](https://github.com/JKosk88/Desk-Organizer-readme/blob/master/blob/calendar.jpg?raw=true)
+![Events](https://github.com/JKosk88/Desk-Organizer-readme/blob/master/blob/events.jpg?raw=true)
 
 ## Exchange rates
 
